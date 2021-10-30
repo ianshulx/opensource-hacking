@@ -1,0 +1,44 @@
+1. Hack The Box
+(https://www.hackthebox.com/)
+
+HTB contains vulnerable machines that you are invited to hack—it even goes so far as to require you to hack your way to the invitation code that allows you to begin practising on it.
+
+ 2. CTFlearn
+(https://ctflearn.com/)
+ The platform’s name derives from Capture The Flag (CTF), which is popular in the hacking community for its contents and reputation as a favorite cybersecurity challenge for beginners as well as professional hackers. CTFlearn also features challenges and competitions that give the users the ability to act as both attacker and defender.
+
+
+ 3. bWAPP
+(http://www.itsecgames.com/)
+
+Created by Malik Messelem, bWAPP (short for “buggy web application”) is a free and open source application that is, just as the name implies, deliberately vulnerable. It’s one of the best—if not the best—buggy websites available for practising and sharpening your hacking skills.
+
+
+4. HackThisSite
+(https://www.hackthissite.org/)
+
+ HTS, is a great hacking website that was founded by Jeremy Hammond but has been maintained by the community. It offers numerous different challenges that contain beginner as well as advanced hacking skills.
+
+
+5. Google Gruyere
+(https://google-gruyere.appspot.com/)
+
+ Gruyere is a great option for beginners who want to dive into finding and exploiting vulnerabilities, but also learn how to play on the other side and defend against exploits.
+
+
+6. Hellbound Hackers
+(https://hbh.sh/home)
+
+On Hellbound Hackers, you’ll have the chance to participate in timed challenges requiring you to find a vulnerability and a way to patch it. 
+
+
+7. HackThis!!
+
+(https://defendtheweb.net/)
+
+It features over 60 hacking levels and articles that cover all areas of security including those specifically contained on the level.
+
+8. Root Me
+(https://www.root-me.org/?lang=en)
+
+Root Me is a great place for testing and advancing your hacking skills. It features over 300 challenges which are updated regularly and more than 50 virtual environments, all to provide a realistic environment. 
